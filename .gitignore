@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+~$*
+nul
+*.db
+*.doc
+*.docx
