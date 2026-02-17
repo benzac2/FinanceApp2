@@ -9,8 +9,12 @@ Wymagania
 Uruchomienie
 
 git clone https://github.com/benzac2/FinanceApp2.git
+
 cd FinanceApp2
+
 dotnet restore
+
 dotnet build
+
 dotnet run
 
